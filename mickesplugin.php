@@ -12,7 +12,7 @@
 function mickesplugin_page() {
 	echo "<h1>Micke's Plugin</h1>";
 	echo "<p>Hello and welcome to Micke's Plugin.</p>";
-	echo "<p>We hope that you enjoy your experience. Hello</p>";
+	echo "<p>We hope that you enjoy your experience. Hello again</p>";
 }
 
 function mickesplugin_admin_menu() {
